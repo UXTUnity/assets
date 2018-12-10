@@ -1,0 +1,730 @@
+[
+  {
+    "name": "Veritaseum",
+    "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+    "symbol": "VERI",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/veri.png",
+    "website": "http://veritas.veritaseum.com/",
+    "forum": "https://forum.saturn.network/t/veritaseum-token/2777"
+  },
+  {
+    "name": "Populous",
+    "address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
+    "symbol": "PPT",
+    "decimals": 8,
+    "logo": "https://github.saturn.network/eth/logo/ppt.png",
+    "website": "https://populous.world/",
+    "forum": "https://forum.saturn.network/t/populous-token-platform/2776"
+  },
+  {
+    "name": "GraphGrailAI",
+    "address": "0xf207ccfe6d1b90b0b7817ce2d5d262af1514e37b",
+    "symbol": "GAI",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/gai.png",
+    "website": "https://graphgrail.com/",
+    "forum": "https://forum.saturn.network/t/listing-gai-token-on-saturn/2775"
+  },
+  {
+    "name": "Rivetz",
+    "address": "0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
+    "symbol": "RVT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/rvt.png",
+    "website": "https://rivetzintl.com/",
+    "forum": "https://forum.saturn.network/t/listing-rvt-token-on-saturn/2774"
+  },
+  {
+    "name": "Lira Cash",
+    "address": "0x49aaa160506f7e07e6c3f6cd6316b6866025cdcb",
+    "symbol": "LIRA",
+    "decimals": 8,
+    "logo": "https://github.saturn.network/eth/logo/lira_cash.png",
+    "website": "http://lira.cash",
+    "forum": "https://forum.saturn.network/t/lira-cash-a-mineable-erc20-token-for-merchants/2707"
+  },
+  {
+    "name": "DEBITUM",
+    "address": "0x151202c9c18e495656f372281f493eb7698961d5",
+    "symbol": "DEB",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/deb.png",
+    "website": "https://debitum.network/",
+    "forum": "https://forum.saturn.network/t/debitum-network"
+  },
+  {
+    "name": "HASHGARD",
+    "address": "0x5c64031c62061865e5fd0f53d3cdaef80f72e99d",
+    "symbol": "GARD",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/gard.png",
+    "website": "https://www.hashgard.com",
+    "forum": "https://forum.saturn.network/t/hashgard-gard/2737"
+  },
+  {
+    "name": "DigitexFutures",
+    "address": "0x1c83501478f1320977047008496dacbd60bb15ef",
+    "symbol": "DGTX",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/dgtx.png",
+    "website": "https://digitexfutures.com/",
+    "forum": "https://forum.saturn.network/t/digitex-futures"
+  },
+  {
+    "name": "easyMINE Token",
+    "address": "0x9501bfc48897dceeadf73113ef635d2ff7ee4b97",
+    "symbol": "EMT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/emt.png",
+    "website": "https://easymine.io/",
+    "forum": "https://forum.saturn.network/t/easymine-mining-made-simple"
+  },
+  {
+    "name": "Genevieve Exchange",
+    "address": "0x106b419718298f91ca576728a670597fb2e0ee4e",
+    "symbol": "GXE",
+    "decimals": 10,
+    "logo": "https://github.saturn.network/eth/logo/gxe.png",
+    "website": "http://genevieveco.io/",
+    "forum": "https://forum.saturn.network/t/genevieve-exchange"
+  },
+  {
+    "name": "Genevieve VC",
+    "address": "0x22f0af8d78851b72ee799e05f54a77001586b18a",
+    "symbol": "GXVC",
+    "decimals": 10,
+    "logo": "https://github.saturn.network/eth/logo/gxvc.png",
+    "website": "http://genevieveco.io/",
+    "forum": "https://forum.saturn.network/t/genevieve-venture-capital"
+  },
+  {
+    "name": "Saturn DAO Token",
+    "address": "0xb9440022a095343b440d590fcd2d7a3794bd76c8",
+    "symbol": "SATURN",
+    "decimals": 4,
+    "logo": "https://github.saturn.network/eth/logo/saturn.png",
+    "website": "https://saturn.network/",
+    "forum": "https://forum.saturn.network/c/saturn-network"
+  },
+  {
+    "name": "STABLE STB Token",
+    "address": "0x09bca6ebab05ee2ae945be4eda51393d94bf7b99",
+    "symbol": "STB",
+    "decimals": 4,
+    "logo": "https://github.saturn.network/eth/logo/stb.png",
+    "website": "https://stable.foundation/",
+    "forum": "https://forum.saturn.network/t/stable-token-low-volatility-token-erc223"
+  },
+  {
+    "name": "Stish",
+    "address": "0xb472c71365ef9ed14226bb0aa4c9a3fa45ece510",
+    "symbol": "STISH",
+    "decimals": 4,
+    "logo": "https://github.saturn.network/eth/logo/stish.png",
+    "website": "https://stish.io",
+    "forum": "https://forum.saturn.network/t/stishit-micro-crypto-economies"
+  },
+  {
+    "name": "BlockVentureCoin",
+    "address": "0xf4467cae19c5a53b9fdcd4ded678826805aa1927",
+    "symbol": "XBV",
+    "decimals": 8,
+    "logo": "https://github.saturn.network/eth/logo/xbv.png",
+    "website": "https://xbv.io/",
+    "forum": "https://forum.saturn.network/t/erc-223-xbv-utility-token"
+  },
+  {
+    "name": "ZRX",
+    "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/zrx.png",
+    "website": "https://0xproject.com/",
+    "forum": "https://forum.saturn.network/t/0xprotocol-zrx-token"
+  },
+  {
+    "name": "Gastoken.io",
+    "address": "0x88d60255f917e3eb94eae199d827dad837fac4cb",
+    "symbol": "GST1",
+    "decimals": 2,
+    "logo": "https://github.saturn.network/eth/logo/gst1.png",
+    "website": "https://gastoken.io",
+    "forum": "https://forum.saturn.network/t/gastoken-tokenize-gas"
+  },
+  {
+    "name": "Gastoken.io",
+    "address": "0x0000000000b3f879cb30fe243b4dfee438691c04",
+    "symbol": "GST2",
+    "decimals": 2,
+    "logo": "https://github.saturn.network/eth/logo/gst2.png",
+    "website": "https://gastoken.io",
+    "forum": "https://forum.saturn.network/t/gastoken-tokenize-gas"
+  },
+  {
+    "name": "Adelphoi",
+    "address": "0x660e71483785f66133548B10f6926dC332b06e61",
+    "symbol": "ADL",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/adel.png",
+    "website": "https://adel.io/",
+    "forum": "https://forum.saturn.network/t/ann-adl-adel-io-blockchain-agnostic-technology-incubator"
+  },
+  {
+    "name": "PesaPepe",
+    "address": "0x61630fd1f65a7b72af8e9faa6e2646080131f501",
+    "symbol": "PEP",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/pep.png",
+    "website": "https://pesapepe.org",
+    "forum": "https://forum.saturn.network/t/ann-pesapepe-pep-a-token-to-foster-understanding-and-adoption-of-cryptocurrencies-no-ico"
+  },
+  {
+    "name": "0xBitcoin",
+    "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+    "symbol": "0xBTC",
+    "decimals": 8,
+    "logo": "https://github.saturn.network/eth/logo/0xbtc.png",
+    "website": "https://0xbitcoin.org",
+    "forum": "https://forum.saturn.network/t/0xbitcoin-pure-mined-erc20-token"
+  },
+  {
+    "name": "Fox Trading",
+    "address": "0xFbe878CED08132bd8396988671b450793C44bC12",
+    "symbol": "FOXT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/foxt.png",
+    "website": "https://foxtrading.io",
+    "forum": "https://forum.saturn.network/t/fox-trading-automated-forex-and-cryptocurrency-trading-platform"
+  },
+  {
+    "name": "PiedPiperCoin",
+    "address": "0x5a3c9a1725aa82690ee0959c89abe96fd1b527ee",
+    "symbol": "PPI",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/ppi.png",
+    "website": "https://piperchain.io/",
+    "forum": "https://forum.saturn.network/t/ann-ppi-piedpipercoin/2577"
+  },
+  {
+     "name": "Horse",
+     "address": "0x5b0751713b2527d7f002c0c4e2a37e1219610a6b",
+     "symbol": "HORSE",
+     "decimals": 18,
+     "logo": "https://github.saturn.network/eth/logo/horse.png",
+     "website": "https://ethorse.com/",
+     "forum": "https://forum.saturn.network/t/ethorse-the-worlds-first-dapp-to-bet-on-the-price-of-cryptocurrencies/1227"
+  },
+  {
+    "name": "FLIP Token",
+    "address": "0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3",
+    "symbol": "FLP",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/flp.png",
+    "website": "https://gameflip.com/flp",
+    "forum": "https://forum.saturn.network/t/gameflip-flip-the-crypto-token-for-all-your-gaming-needs/2609/"
+  },
+  {
+    "name": "DICE",
+    "address": "0x2e071d2966aa7d8decb1005885ba1977d6038a65",
+    "symbol": "ROL",
+    "decimals": 16,
+    "logo": "https://github.saturn.network/eth/logo/rol.png",
+    "website": "http://etheroll.com",
+    "forum": "https://forum.saturn.network/t/etheroll-dice-blockchain-casino/2612"
+  },
+  {
+    "name": "BitDice",
+    "address": "0x29d75277ac7f0335b2165d0895e8725cbf658d73",
+    "symbol": "CSNO",
+    "decimals": 8,
+    "logo": "https://github.saturn.network/eth/logo/csno.png",
+    "website": "https://ico.bitdice.me/en/",
+    "forum": "https://forum.saturn.network/t/bitdice-casino-csno-absolutely-fair-games/2613"
+  },
+  {
+    "name": "aXpire",
+    "address": "0xc39e626a04c5971d770e319760d7926502975e47",
+    "symbol": "AXPR",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/axpr.png",
+    "website": "https://axpire.com/axpire/",
+    "forum": "https://forum.saturn.network/t/axpire-axp-erp-saas-company/738"
+  },
+  {
+    "name": "NANJCOIN",
+    "address": "0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265",
+    "symbol": "NANJ",
+    "decimals": 8,
+    "logo": "https://github.saturn.network/eth/logo/nanj.png",
+    "website": "https://nanjcoin.com/",
+    "forum": "https://forum.saturn.network/t/nanjcoin-nanj-token-for-athletes/2713"
+  },
+  {
+    "name": "4NEW",
+    "address": "0x241ba672574a78a3a604cdd0a94429a73a84a324",
+    "symbol": "KWATT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/4new.png",
+    "website": "https://4new.io/",
+    "forum": "https://forum.saturn.network/t/kwatt-4new-token/2711"
+  },
+  {
+    "name": "Basic Attention Token",
+    "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "symbol": "BAT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/bat.png",
+    "website": "https://basicattentiontoken.org/",
+    "forum": "https://forum.saturn.network/t/basic-attention-token-bat/2716"
+  },
+  {
+    "name": "Kyber Network Crystal",
+    "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/knc.png",
+    "website": "https://kyber.network/",
+    "forum": "https://forum.saturn.network/t/kyber-network-crystal-knc/2721"
+  },
+  {
+    "name": "Cryptonex",
+    "address": "0x416935c684686877e3931fe8d766cafc5b398ebf",
+    "symbol": "CNX",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/cnx.png",
+    "website": "https://cryptonex.org/",
+    "forum": "https://forum.saturn.network/t/cryptonex-cnx-easy-entrance-into-crypto-world/2717"
+  },
+  {
+    "name": "Theta Token",
+    "address": "0x3883f5e181fccaf8410fa61e12b59bad963fb645",
+    "symbol": "THETA",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/theta.png",
+    "website": "https://www.thetatoken.org/",
+    "forum": "https://forum.saturn.network/t/theta-token-theta-next-generation-video-delivery-powered-by-you/2718"
+  },
+  {
+    "name": "Decentraland MANA",
+    "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "symbol": "MANA",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/mana.png",
+    "website": "https://decentraland.org/",
+    "forum": "https://forum.saturn.network/t/decentraland-mana-mana/2720"
+  },
+  {
+    "name": "Aurora DAO",
+    "address": "0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814",
+    "symbol": "AURA",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/aura.png",
+    "website": "https://auroradao.com/",
+    "forum": "https://forum.saturn.network/t/aurora-dao-aura/2722"
+  },
+  {
+    "name": "Bancor Network Token",
+    "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+    "symbol": "BNT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/bnt.png",
+    "website": "https://bancor.network/",
+    "forum": "https://forum.saturn.network/t/bancor-network-token-bnt/2724"
+  },
+  {
+    "name": "TE-FOOD",
+    "address": "0xe5f166c0d8872b68790061317bb6cca04582c912",
+    "symbol": "TFD",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/tfd.png",
+    "website": "https://ico.tefoodint.com/",
+    "forum": "https://forum.saturn.network/t/te-food-farm-to-table-fresh-food-traceability-on-blockchain/2730"
+  },
+  {
+    "name": "UnikoinGold",
+    "address": "0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b",
+    "symbol": "UKG",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/ukg.png",
+    "website": "https://unikoingold.com/",
+    "forum": "https://forum.saturn.network/t/unikoingold-ukg/2747"
+  },
+  {
+    "name": "SkinCoin",
+    "address": "0x2bdc0d42996017fce214b21607a515da41a9e0c5",
+    "symbol": "SKIN",
+    "decimals": 6,
+    "logo": "https://github.saturn.network/eth/logo/skin.png",
+    "website": "https://skincoin.org/",
+    "forum": "https://forum.saturn.network/t/skincoin-skin/2748"
+  },  
+  {
+    "name": "Dao.Casino",
+    "address": "0x8aa33a7899fcc8ea5fbe6a608a109c3893a1b8b2",
+    "symbol": "BET",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/bet.png",
+    "website": "https://dao.casino/",
+    "forum": "https://forum.saturn.network/t/dao-casino-bet/274"
+  }, 
+  { 
+    "name": "Maya Coin",
+    "address": "0x14468ff6b324f1c5a869e62b9c442846e7d0baf1",
+    "symbol": "MAYA",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/MAYA.png",
+    "website": "https://mayacoinico.com/",
+    "forum": "https://forum.saturn.network/t/maya-coin-information/2698"
+  },
+  {
+    "name": "LoomToken",
+    "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
+    "symbol": "LOOM",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/loom.png",
+    "website": "https://loomx.io/",
+    "forum": "https://forum.saturn.network/t/loom-loomtoken-like-eos-on-ethereum/2755"
+  },  
+  {
+    "name": "Aeternity",
+    "address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+    "symbol": "AE",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/ae.png",
+    "website": "https://www.aeternity.com/",
+    "forum": "https://forum.saturn.network/t/aeternity-blockchain-token/2756"
+  },  
+  {
+    "name": "TrueUSD",
+    "address": "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/tusd.png",
+    "website": "https://www.trusttoken.com/",
+    "forum": "https://forum.saturn.network/t/trueusd-tusd-stablecoin-can-redeem-for-us-dollars/2758"
+  },  
+  {
+    "name": "OmiseGo",
+    "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+    "symbol": "OMG",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/omg.png",
+    "website": "https://omisego.network/",
+    "forum": "https://forum.saturn.network/t/omisego-omg-unbank-the-banked/2757"
+  },
+  {
+     "name": "Lympo tokens",
+     "address": "0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec",
+     "symbol": "LYM",
+     "decimals": 18,
+     "logo": "https://github.saturn.network/eth/logo/lym.png",
+     "website": "https://lympo.io",
+     "forum": "https://forum.saturn.network/t/lympo-tokens-lym/2759"
+  },
+  {
+     "name": "Poker Chips",
+     "address": "0xf3db7560e820834658b590c96234c333cd3d5e5e",
+     "symbol": "CHP",
+     "decimals": 18,
+     "logo": "https://github.saturn.network/eth/logo/chp.png",
+     "website": "https://coinpoker.com/",
+     "forum": "https://forum.saturn.network/t/poker-chips-chp/2766"
+  },
+  {
+    "name": "BitMartToken",
+    "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
+    "symbol": "BMX",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/bmx.png",
+    "website": "https://www.bitmart.com/",
+    "forum": "https://forum.saturn.network/t/bitmarttoken-bmx/2765"
+  },
+  {
+    "name": "Spectre.ai D-Token",
+    "address": "0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf",
+    "symbol": "SXDT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/sxdt.png",
+    "website": "https://www.spectre.ai/",
+    "forum": "https://forum.saturn.network/t/spectre-ai-d-token-sxdt/2764"
+  },
+  {
+    "name": "Decent.Bet Token",
+    "address": "0x9b68bfae21df5a510931a262cecf63f41338f264",
+    "symbol": "DBET",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/dbet.png",
+    "website": "https://www.decent.bet/",
+    "forum": "https://forum.saturn.network/t/decent-bet-token-dbet/2763"
+  },
+  {
+    "name": "Ethbet",
+    "address": "0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d",
+    "symbol": "EBET",
+    "decimals": 2,
+    "logo": "https://github.saturn.network/eth/logo/ebet.png",
+    "website": "https://ethbet.io/",
+    "forum": "https://forum.saturn.network/t/ethbet-io-ebet/2762"
+  },
+  {
+    "name": "Vezt",
+    "address": "0x9720b467a710382a232a32f540bdced7d662a10b",
+    "symbol": "VZT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/vezt.png",
+    "website": "https://vezt.co/",
+    "forum": "https://forum.saturn.network/t/vezt-vzt-token-for-the-musicians/2773"
+  },
+  {
+    "name": "Token-as-a-Service",
+    "address": "0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c",
+    "symbol": "TAAS",
+    "decimals": 6,
+    "logo": "https://github.saturn.network/eth/logo/taas.png",
+    "website": "https://taas.fund/",
+    "forum": "https://forum.saturn.network/t/token-as-a-service-taas/2760"
+  },
+  {
+    "name": "SP8DE Token",
+    "address": "0x05aaaa829afa407d83315cded1d45eb16025910c",
+    "symbol": "SPX",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/spx.png",
+    "website": "https://sp8de.com/",
+    "forum": "https://forum.saturn.network/t/sp8de-token-spx/2761"
+  },
+  {
+    "name": "Pundi X Token",
+    "address": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
+    "symbol": "NPXS",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/npxs.png",
+    "website": "https://pundix.com/",
+    "forum": "https://forum.saturn.network/t/pundi-x-token-npxs/2767"
+  },
+  {
+    "name": "HoloToken",
+    "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+    "symbol": "HOT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/hot.png",
+    "website": "https://holochain.org/",
+    "forum": "https://forum.saturn.network/t/holotoken-hot/2770"
+  },
+  {
+    "name": "Nexo",
+    "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/nexo.png",
+    "website": "https://nexo.io/",
+    "forum": "https://forum.saturn.network/t/nexo-token-nexo/2771"
+  },
+  {
+    "name": "Ethos",
+    "address": "0x5af2be193a6abca9c8817001f45744777db30756",
+    "symbol": "ETHOS",
+    "decimals": 8,
+    "logo": "https://github.saturn.network/eth/logo/ethos.png",
+    "website": "https://nexo.io/",
+    "forum": "https://forum.saturn.network/t/ethos-ethos-universal-wallet/2768"
+  },
+  {
+    "name": "BNB",
+    "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/bnb.png",
+    "website": "https://www.binance.com/",
+    "forum": "https://forum.saturn.network/t/when-binance-bnb/2772"
+  },
+  {
+    "name": "ChainLink Token",
+    "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/link.png",
+    "website": "https://chain.link/",
+    "forum": "https://forum.saturn.network/t/chainlink-token-link/2781"
+  },
+  {
+    "name": "Gemini dollar",
+    "address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+    "symbol": "GUSD",
+    "decimals": 2,
+    "logo": "https://github.saturn.network/eth/logo/gemini.png",
+    "website": "https://gemini.com/dollar/",
+    "forum": "https://forum.saturn.network/t/gemini-dollar-gusd/2782"
+  },
+  {
+    "name": "HuobiToken",
+    "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+    "symbol": "HT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/huobi.png",
+    "website": "https://www.hbg.com/en-us/",
+    "forum": "https://forum.saturn.network/t/huobitoken-ht/2784"
+  },
+  {
+    "name": "IOSToken",
+    "address": "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab",
+    "symbol": "IOST",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/iost.png",
+    "website": "https://www.hbg.com/en-us/",
+    "forum": "https://forum.saturn.network/t/iostoken-iost/2783"
+  },
+  {
+    "name": "0xLitecoin Token",
+    "address": "0x012fd5049a203df08c02fb2e0ed15ceed10d9ed4",
+    "symbol": "0xLTC",
+    "decimals": 8,
+    "logo": "https://github.saturn.network/eth/logo/0xltc.png",
+    "website": "http://www.0xltc.net/",
+    "forum": "https://forum.saturn.network/t/0xlitecoin-token-0xltc/2785"
+  },
+  {
+    "name": "Traxia Membership Token",
+    "address": "0x3209f98bebf0149b769ce26d71f7aea8e435efea",
+    "symbol": "TMT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/tmt.png",
+    "website": "https://www.traxia.co/",
+    "forum": "https://forum.saturn.network/t/traxia-membership-token-tmt/2786"
+  },
+  {
+    "name": "Reputation",
+    "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
+    "symbol": "REP",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/rep.png",
+    "website": "https://augur.net/",
+    "forum": "https://forum.saturn.network/t/reputation-token/2790"
+  },
+  {
+    "name": "Golem",
+    "address": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
+    "symbol": "GNT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/gnt.png",
+    "website": "https://golem.network/",
+    "forum": "https://forum.saturn.network/t/golem-network-token/2789"
+  },  
+  {
+    "name": "Maker",
+    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "symbol": "MKR",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/mkr.png",
+    "website": "https://makerdao.com/",
+    "forum": "https://forum.saturn.network/t/maker-dao-token/2788"
+  },
+  {
+    "name": "Status",
+    "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+    "symbol": "SNT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/snt.png",
+    "website": "https://status.im/",
+    "forum": "https://forum.saturn.network/t/status-network-token/2791"
+  },
+  {
+    "name": "Waltonchain",
+    "address": "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
+    "symbol": "WTC",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/wtc.png",
+    "website": "http://www.waltonchain.org/",
+    "forum": "https://forum.saturn.network/t/waltonchain-token/2792"
+  },
+  {
+    "name": "Mithril",
+    "address": "0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb",
+    "symbol": "MITH",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/mith.png",
+    "website": "https://mith.io/",
+    "forum": "https://forum.saturn.network/t/mithril-social-network/2793"
+  },
+  {
+    "name": "KuCoin Shares",
+    "address": "0x039b5649a59967e3e936d7471f9c3700100ee1ab",
+    "symbol": "KCS",
+    "decimals": 6,
+    "logo": "https://github.saturn.network/eth/logo/kcs.png",
+    "website": "https://kucoin.com/",
+    "forum": "https://forum.saturn.network/t/kucoin-share-token/2794"
+  },
+  {
+    "name": "Revain",
+    "address": "0x48f775efbe4f5ece6e0df2f7b5932df56823b990",
+    "symbol": "R",
+    "decimals": 0,
+    "logo": "https://github.saturn.network/eth/logo/r.png",
+    "website": "https://revain.org/",
+    "forum": "https://forum.saturn.network/t/revain-platform-token/2795"
+  },
+  {
+    "name": "VeChain",
+    "address": "0xd850942ef8811f2a866692a623011bde52a462c1",
+    "symbol": "VEN",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/ven.png",
+    "website": "https://www.vechain.org/",
+    "forum": "https://forum.saturn.network/t/vechain-network-token/2799"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logo": "https://github.saturn.network/eth/logo/usdt.png",
+    "website": "https://www.tether.to/",
+    "forum": "https://forum.saturn.network/t/tether-usdt-stablecoin/2800"
+  },
+  {
+    "name": "NOAH COIN",
+    "address": "0x58a4884182d9e835597f405e5f258290e46ae7c2",
+    "symbol": "NOAH",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/noah.png",
+    "website": "https://www.noahcoin.org/",
+    "forum": "https://forum.saturn.network/t/noah-coin-listing/2801"
+  },
+  {
+    "name": "Horyou Token",
+    "address": "0xcfac2916ec118a0252a7766c513ee7c71b384b5e",
+    "symbol": "HYT",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/hyt.png",
+    "website": "https://tge.horyoutoken.io",
+    "forum": "https://forum.saturn.network/t/horyou-token-information/2802"
+  },
+  {
+    "name": "XinFin XDCE",
+    "address": "0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2",
+    "symbol": "XDCE",
+    "decimals": 18,
+    "logo": "https://github.saturn.network/eth/logo/xdce.png",
+    "website": "https://www.xinfin.io/",
+    "forum": "https://forum.saturn.network/t/xinfin-xdce-information/2803"
+  },
+  {
+    "name": "Legolas Exchange",
+    "address": "0x123ab195dd38b1b40510d467a6a359b201af056f",
+    "symbol": "LGO",
+    "decimals": 8,
+    "logo": "https://github.saturn.network/eth/logo/lgo.png",
+    "website": "https://legolas.exchange/",
+    "forum": "https://forum.saturn.network/t/legolas-exchange-information/2804"
+  }, 
+  {
+    "name": "Unity ETH token",
+    "address": "0x30dfd1e3ba2919d1337512a9f3cf83050fa7b84b",
+    "symbol": "UXET",
+    "decimals": 8,
+    "logo": "https://github.saturn.network/eth/logo/UXET.png",
+    "forum": "https://forum.saturn.network/t/uxet-unity-eth-token/2806"
+  }   
+]
